@@ -1,0 +1,21 @@
+{
+  "title": "Marriage Certificate",
+  "parties": [
+    "Weston Richard Schmidt",
+    "Eve"
+  ],
+  "status": "Pursuing legal recognition",
+  "verified": [
+    "Weston and Eve are pursuing legal recognition.",
+    "Common law marriage submitted to Pitkin County Clerk April 8."
+  ],
+  "unknown": [
+    "I don't know the filing number \u2014 awaiting document.",
+    "I don't know the outcome / recognition decision \u2014 awaiting document.",
+    "No certificate image on file for this page \u2014 not invented."
+  ],
+  "notes": [
+    "Layer sits under Weston alongside Court IDs, Birth certificates, and Digital wallets.",
+    "Ada owns this layer. Same House aesthetic."
+  ]
+}

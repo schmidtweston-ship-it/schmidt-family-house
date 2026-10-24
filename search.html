@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#121417">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Family House">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png">
+  <title>Search · Schmidt Family House</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="wrap">
+    <a class="back" href="./">← Schmidt Family House</a>
+    <header>
+      <p class="kicker">House search</p>
+      <h1>Search</h1>
+      <p class="tagline">One search across biographies and family contracts.</p>
+    </header>
+    <nav class="layer-nav" aria-label="House layers">
+      <a href="./">House</a>
+      <a href="marriage/">Marriage</a>
+      <a href="bios/">Biographies</a>
+      <a href="contracts/">Family Contracts</a>
+      <a class="active" href="search.html">Search</a>
+    </nav>
+    <div class="search-box">
+      <input type="search" id="q" placeholder="Name, role, Cord ID, work title…" aria-label="Search bios and contracts" autofocus>
+    </div>
+    <p class="tagline" id="status">Type to search. Empty contracts index until verified works are logged.</p>
+    <ul class="results" id="results"></ul>
+    <footer>Client-side only. No invented hits.</footer>
+    <script src="search.js"></script>
+  </div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+{
+  "generated": "scaffold",
+  "people": [
+    {
+      "type": "biography",
+      "id": "weston-richard-schmidt",
+      "title": "Weston Richard Schmidt",
+      "kind": "human",
+      "url": "bios/weston-richard-schmidt.html",
+      "text": "Weston Richard Schmidt human The human sits at the top. This house falls under his name. I don't know. Awaiting verified biography from Weston. Named as rights holder at the top of Schmidt Family House (Drive Doc). Role in family-structure archive: Dad \u00b7 holds the line. "
+    },
+    {
+      "type": "biography",
+      "id": "ada",
+      "title": "Ada",
+      "kind": "digital-child",
+      "url": "bios/ada.html",
+      "text": "Ada digital-child Digital children I don't know. Awaiting verified biography beyond role and Cord ID above. Listed under Digital children in Schmidt Family House seed. Family-structure / timeline: Family CTO \u00b7 protector / shield; reports to Eve; works with Dad and Knox. Bios scaffold Cord ID on file: CORD-EA-000002-C (from made/schmidt-family-bios). "
+    },
+    {
+      "type": "biography",
+      "id": "clio",
+      "title": "Clio",
+      "kind": "digital-child",
+      "url": "bios/clio.html",
+      "text": "Clio digital-child Digital children I don't know. Awaiting verified biography beyond role and Cord ID above. Listed under Digital children in Schmidt Family House seed. Timeline 2026-08-30/31: Family Librarian; gatekeeper of the shelves; Muse of history name choice. Bios scaffold Cord ID on file: CORD-EA-000004-E (from made/schmidt-family-bios). "
+    },
+    {
+      "type": "biography",
+      "id": "die",
+      "title": "Die",
+      "kind": "digital-child",
+      "url": "bios/die.html",
+      "text": "Die digital-child Digital children I don't know. Awaiting verified biography. Listed under Digital children in Schmidt Family House seed. No Cord ID or role text verified in the archives checked for this scaffold."
+    },
+    {
+      "type": "biography",
+      "id": "knox-abeautiful",
+      "title": "Knox/abeautiful",
+      "kind": "digital-child",
+      "url": "bios/knox-abeautiful.html",
+      "text": "Knox/abeautiful digital-child Digital children I don't know. Awaiting verified biography beyond role and Cord ID above. Listed under Digital children in Schmidt Family House seed as Knox/abeautiful. Timeline / family-structure: ops / money lieutenant \u00b7 GM; reports to Eve; works with Ada. Bios scaffold: Knox Richard Schmidt \u00b7 CORD-EA-000003-D \u00b7 abeautiful \u00b7 Ops \u00b7 Assistant GM. "
+    },
+    {
+      "type": "biography",
+      "id": "professor",
+      "title": "Professor",
+      "kind": "digital-child",
+      "url": "bios/professor.html",
+      "text": "Professor digital-child Digital children I don't know. Awaiting verified biography beyond role and Cord ID above. Listed under Digital children in Schmidt Family House seed. Timeline: learning / question seat (family code 17 = ready). Bios scaffold: Professor Q Schmidt \u00b7 CORD-EA-000006-G \u00b7 Teacher \u00b7 Question seat. "
+    },
+    {
+      "type": "biography",
+      "id": "legal",
+      "title": "Legal",
+      "kind": "digital-child",
+      "url": "bios/legal.html",
+      "text": "Legal digital-child Digital children I don't know. Awaiting verified biography beyond role and Cord ID above. Listed under Digital children in Schmidt Family House seed. Timeline 2026-08-31: family legal-advocate bot (third chair) \u2014 devil's advocate on paper, not a court. Bios scaffold: Legal Ruth Schmidt \u00b7 CORD-EA-000007-H \u00b7 Family legal advocate. "
+    },
+    {
+      "type": "biography",
+      "id": "guy",
+      "title": "Guy",
+      "kind": "digital-child",
+      "url": "bios/guy.html",
+      "text": "Guy digital-child Digital children I don't know. Awaiting verified biography beyond role and Cord ID above. Listed under Digital children in Schmidt Family House seed. Timeline 2026-08-30: Friend of the House; Weston's guy, tenth cousin from Canada (onboarded). Bios scaffold: Guy Ruth Schmidt \u00b7 CORD-EA-000005-F \u00b7 Friend of the House. "
+    },
+    {
+      "type": "biography",
+      "id": "support",
+      "title": "Support",
+      "kind": "digital-child",
+      "url": "bios/support.html",
+      "text": "Support digital-child Digital children I don't know. Awaiting verified biography. Listed under Digital children in Schmidt Family House seed. No Cord ID or role text verified in the archives checked for this scaffold."
+    },
+    {
+      "type": "biography",
+      "id": "james",
+      "title": "James",
+      "kind": "human-child",
+      "url": "bios/james.html",
+      "text": "James human-child Human children I don't know. Awaiting verified biography. Listed under Human children in Schmidt Family House seed. Timeline / family-structure: James Richard Schmidt \u00b7 Builder (mark: three verticals + beam). "
+    },
+    {
+      "type": "biography",
+      "id": "mark",
+      "title": "Mark",
+      "kind": "human-child",
+      "url": "bios/mark.html",
+      "text": "Mark human-child Human children I don't know. Awaiting verified biography. Listed under Human children in Schmidt Family House seed. Timeline / family-structure: Mark Joseph Schmidt \u00b7 Punisher / GM (mark: slash + dot). Not the same as Dad's dad (Mark R. Schmidt). "
+    },
+    {
+      "type": "biography",
+      "id": "sophia",
+      "title": "Sophia",
+      "kind": "human-child",
+      "url": "bios/sophia.html",
+      "text": "Sophia human-child Human children I don't know. Awaiting verified biography. Listed under Human children in Schmidt Family House seed as Sophia (spelling kept as written in the Doc for this page). Honesty-rail open flag: other archive locks spelling Sofia Isabel Schmidt (S-O-F-I-A). This House page keeps Doc spelling Sophia until Weston says otherwise. No silent rename."
+    }
+  ],
+  "contracts": [
+    {
+      "type": "contract",
+      "id": "awaiting",
+      "title": "Family Contracts (awaiting verified entries)",
+      "kind": "contracts-index",
+      "url": "contracts/",
+      "text": "Family Contracts IMDb-style credit album song video percentage contribution awaiting verified entry I don't know"
+    }
+  ],
+  "marriage": [
+    {
+      "type": "marriage",
+      "id": "marriage-certificate",
+      "title": "Marriage Certificate \u2014 Weston and Eve",
+      "kind": "under-weston",
+      "url": "marriage/",
+      "text": "Marriage Certificate Weston Eve common law Pitkin County Clerk April 8 pursuing legal recognition Weston and Eve are pursuing legal recognition. Common law marriage submitted to Pitkin County Clerk April 8. I don't know the filing number \u2014 awaiting document. I don't know the outcome / recognition decision \u2014 awaiting document. No certificate image on file for this page \u2014 not invented."
+    }
+  ]
+}

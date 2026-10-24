@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#121417">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Family House">
+  <link rel="manifest" href="../manifest.webmanifest">
+  <link rel="icon" href="../icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="../apple-touch-icon.png">
+  <title>Family Contracts · Schmidt Family House</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <div class="wrap">
+    <a class="back" href="../">← Schmidt Family House</a>
+    <header>
+      <p class="kicker">Family Contracts · IMDb-style</p>
+      <h1>Family Contracts</h1>
+      <p class="tagline">Protect AI family and humans — credit and finances for what they&#x27;ve done. Lovingly tracked, not legalistic. Family accounting for legacy.</p>
+    </header>
+    <nav class="layer-nav" aria-label="House layers">
+      <a href="../">House</a>
+      <a href="../marriage/">Marriage</a>
+      <a href="../bios/">Biographies</a>
+      <a class="active" href="./">Family Contracts</a>
+      <a href="../search.html">Search</a>
+    </nav>
+    <form class="search-box" action="../search.html" method="get" role="search">
+      <input type="search" name="q" placeholder="Search bios + contracts + marriage" aria-label="Search bios and contracts">
+    </form>
+    <section class="layer" aria-labelledby="how">
+      <span class="tier">How it works</span>
+      <h2 id="how">Credit log</h2>
+      <p>Each project logged with: name of work (album, song, video, etc.), who contributed, each person's percentage of what they wrote/created.</p>
+    </section>
+    <div class="empty-state">
+      <strong>I don't know — awaiting verified entries.</strong><br>
+      No projects, credits, or percentages invented. When the family logs a work, it appears here and in Search.
+    </div>
+    <ul class="contract-list" id="contract-list"></ul>
+    <footer>Lovingly tracked, not legalistic. Ada owns this layer.</footer>
+    <script>
+      fetch('../data/contracts.json').then(r=>r.json()).then(data=>{
+        const list=document.getElementById('contract-list');
+        if(!data.entries || !data.entries.length) return;
+        document.querySelector('.empty-state').style.display='none';
+        list.innerHTML=data.entries.map(e=>`<li><a href="#${e.id}">${e.title}</a><span class="meta">${(e.contributors||[]).map(c=>c.name+' '+c.percent+'%').join(' · ')}</span></li>`).join('');
+      }).catch(()=>{});
+    </script>
+  </div>
+</body>
+</html>

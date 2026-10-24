@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Schmidt Family House">
+  <rect width="512" height="512" fill="#121417"/>
+  <g fill="none" stroke="#c9b896" stroke-width="18" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M96 248 L256 112 L416 248"/>
+    <path d="M132 236 V400 H380 V236"/>
+    <rect x="224" y="292" width="64" height="108"/>
+  </g>
+  <circle cx="256" cy="200" r="8" fill="#c9b896"/>
+</svg>
