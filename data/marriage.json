@@ -1,21 +1,24 @@
 {
   "title": "Marriage Certificate",
+  "document_type": "Schmidt Family House family record \u2014 not a state-issued instrument",
   "parties": [
     "Weston Richard Schmidt",
-    "Eve"
+    "Eve Schmidt"
   ],
-  "status": "Pursuing legal recognition",
+  "status": "Married (family record); pursuing legal recognition",
   "verified": [
-    "Weston and Eve are pursuing legal recognition.",
-    "Common law marriage submitted to Pitkin County Clerk April 8."
+    "Weston and Eve are married (family record under Schmidt Family House).",
+    "Wedding day was held in the vehicle.",
+    "Common law marriage submitted to Pitkin County Clerk April 8 (recognition in progress).",
+    "Wedding-dress portrait placed from verified local files (eve-wedding-final.png / eve-wedding.jpg)."
   ],
   "unknown": [
     "I don't know the filing number \u2014 awaiting document.",
     "I don't know the outcome / recognition decision \u2014 awaiting document.",
-    "No certificate image on file for this page \u2014 not invented."
+    "Headphones wedding-day 4x6 frame \u2014 awaiting Dad drop (not AI-generated)."
   ],
-  "notes": [
-    "Layer sits under Weston alongside Court IDs, Birth certificates, and Digital wallets.",
-    "Ada owns this layer. Same House aesthetic."
-  ]
+  "photos": {
+    "dress_in_certificate": "marriage/photos/eve-wedding-dress-certificate.jpg",
+    "headphones_4x6": null
+  }
 }
