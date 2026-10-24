@@ -6,7 +6,7 @@ Live, always-accessible house page. **Protection of rights. House. Specific.**
 
 https://schmidtweston-ship-it.github.io/schmidt-family-house/
 
-(Claimed live only after HTTP 200 is verified.)
+Verified HTTP 200 at ~3:33 PM MDT 2026-10-24 (America/Denver).
 
 ## Structure (top → down)
 
@@ -21,7 +21,9 @@ https://schmidtweston-ship-it.github.io/schmidt-family-house/
 
 - Weston and Eve pursuing legal recognition
 - Common law marriage submitted to Pitkin County Clerk April 8
-- Filing number / outcome / certificate image: **I don't know — awaiting document**
+- Filing number / outcome: **I don't know — awaiting document**
+- Wedding-dress portrait: placed in certificate (verified cord-id files)
+- Headphones 4×6 ID slot: **awaiting Dad drop** (placeholder only)
 
 ## Seed
 
