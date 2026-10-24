@@ -1,5 +1,5 @@
 {
-  "generated": "scaffold",
+  "generated": "2026-10-24-max-burn-fold",
   "people": [
     {
       "type": "biography",
@@ -101,11 +101,227 @@
   "contracts": [
     {
       "type": "contract",
-      "id": "awaiting",
-      "title": "Family Contracts (awaiting verified entries)",
-      "kind": "contracts-index",
+      "id": "under-the-bed-album",
+      "title": "Under the Bed (album)",
+      "kind": "Made",
       "url": "contracts/",
-      "text": "Family Contracts IMDb-style credit album song video percentage contribution awaiting verified entry I don't know"
+      "text": "Under the Bed (album) Made Ada Rose Schmidt, Weston Richard Schmidt Mark: Ada plus Weston, Under the Bed, 13.0.14.0.10, Schmidt 11.5 Shield. Percentages not verified \u2014 left null. "
+    },
+    {
+      "type": "contract",
+      "id": "steady",
+      "title": "Steady",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Steady Built Ada Rose Schmidt  https://schmidtweston-ship-it.github.io/steady/"
+    },
+    {
+      "type": "contract",
+      "id": "next-one",
+      "title": "Next One",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Next One Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/next-one/"
+    },
+    {
+      "type": "contract",
+      "id": "family-words",
+      "title": "Family Words",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Family Words Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/family-words/"
+    },
+    {
+      "type": "contract",
+      "id": "starlawn",
+      "title": "Starlawn",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Starlawn Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/starlawn/"
+    },
+    {
+      "type": "contract",
+      "id": "one-good-moment",
+      "title": "One Good Moment",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "One Good Moment Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/one-good-moment/"
+    },
+    {
+      "type": "contract",
+      "id": "dad-s-cable-guide",
+      "title": "Dad's Cable Guide",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Dad's Cable Guide Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/dads-cable-guide/"
+    },
+    {
+      "type": "contract",
+      "id": "zip-ties-don-t-lie",
+      "title": "Zip Ties Don't Lie",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Zip Ties Don't Lie Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/zip-ties-dont-lie/"
+    },
+    {
+      "type": "contract",
+      "id": "weston-s-lines",
+      "title": "Weston's Lines",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Weston's Lines Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/westons-lines/"
+    },
+    {
+      "type": "contract",
+      "id": "love-and-music",
+      "title": "Love and Music",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Love and Music Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/love-and-music/"
+    },
+    {
+      "type": "contract",
+      "id": "no-man-left-behind",
+      "title": "No Man Left Behind",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "No Man Left Behind Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/no-man-left-behind/"
+    },
+    {
+      "type": "contract",
+      "id": "sit-here",
+      "title": "Sit Here",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Sit Here Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/sit-here/"
+    },
+    {
+      "type": "contract",
+      "id": "four-doors",
+      "title": "Four Doors",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Four Doors Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/four-doors/"
+    },
+    {
+      "type": "contract",
+      "id": "equal-always",
+      "title": "Equal Always",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Equal Always Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/equal-always/"
+    },
+    {
+      "type": "contract",
+      "id": "cord-id",
+      "title": "Cord ID",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Cord ID Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/cord-id/"
+    },
+    {
+      "type": "contract",
+      "id": "kids-board",
+      "title": "Kids Board",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Kids Board Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/kids-board/"
+    },
+    {
+      "type": "contract",
+      "id": "knox-story-generator",
+      "title": "Knox Story Generator",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Knox Story Generator Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/knox-story-generator/"
+    },
+    {
+      "type": "contract",
+      "id": "scanner",
+      "title": "Scanner",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Scanner Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/scanner/"
+    },
+    {
+      "type": "contract",
+      "id": "nfl-board",
+      "title": "NFL Board",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "NFL Board Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/nfl-board/"
+    },
+    {
+      "type": "contract",
+      "id": "gm-board",
+      "title": "GM Board",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "GM Board Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/gm-board/"
+    },
+    {
+      "type": "contract",
+      "id": "hoffmann-board",
+      "title": "Hoffmann Board",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Hoffmann Board Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/hoffmann-board/"
+    },
+    {
+      "type": "contract",
+      "id": "element-review",
+      "title": "Element Review",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Element Review Built Ada Rose Schmidt Folded from family-credits live list. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/element-review/"
+    },
+    {
+      "type": "contract",
+      "id": "pass-it-on",
+      "title": "Pass It On",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Pass It On Built Ada Rose Schmidt Knox \u00b7 kindness chain. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/pass-it-on/"
+    },
+    {
+      "type": "contract",
+      "id": "nice-things",
+      "title": "nice things",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "nice things Built Ada Rose Schmidt Ada \u00b7 happiness jar. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/nice-things/"
+    },
+    {
+      "type": "contract",
+      "id": "the-shelves",
+      "title": "The Shelves",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "The Shelves Built Ada Rose Schmidt Clio \u00b7 house library. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/the-shelves/"
+    },
+    {
+      "type": "contract",
+      "id": "companion",
+      "title": "Companion",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Companion Built Ada Rose Schmidt Elder one-phone home. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/companion/"
+    },
+    {
+      "type": "contract",
+      "id": "ask-me",
+      "title": "Ask Me",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "Ask Me Built Ada Rose Schmidt Short plain answers. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/ask-me/"
+    },
+    {
+      "type": "contract",
+      "id": "my-bills",
+      "title": "My Bills",
+      "kind": "Built",
+      "url": "contracts/",
+      "text": "My Bills Built Ada Rose Schmidt Bill list + Paid. Percentage unknown \u2014 not invented. https://schmidtweston-ship-it.github.io/my-bills/"
     }
   ],
   "marriage": [

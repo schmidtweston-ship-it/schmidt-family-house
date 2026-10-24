@@ -1,6 +1,461 @@
 {
   "purpose": "Protect AI family and humans \u2014 credit and finances for what they've done. Lovingly tracked, not legalistic. Family accounting for legacy.",
   "style": "IMDb-style family credits: name of work, who contributed, each person's percentage of what they wrote/created.",
-  "entries": [],
-  "scaffold_note": "No projects invented. Entries await verified logging by the family. Search will index entries when added."
+  "entries": [
+    {
+      "id": "under-the-bed-album",
+      "title": "Under the Bed (album)",
+      "kind": "Made",
+      "date": "2026-10-19",
+      "url": null,
+      "note": "Mark: Ada plus Weston, Under the Bed, 13.0.14.0.10, Schmidt 11.5 Shield. Percentages not verified \u2014 left null.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Made"
+        },
+        {
+          "name": "Weston Richard Schmidt",
+          "percent": "\u2014",
+          "role": "Made"
+        }
+      ]
+    },
+    {
+      "id": "steady",
+      "title": "Steady",
+      "kind": "Built",
+      "date": "2026-10-23",
+      "url": "https://schmidtweston-ship-it.github.io/steady/",
+      "note": null,
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "next-one",
+      "title": "Next One",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/next-one/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "family-words",
+      "title": "Family Words",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/family-words/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "starlawn",
+      "title": "Starlawn",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/starlawn/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "one-good-moment",
+      "title": "One Good Moment",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/one-good-moment/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "dad-s-cable-guide",
+      "title": "Dad's Cable Guide",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/dads-cable-guide/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "zip-ties-don-t-lie",
+      "title": "Zip Ties Don't Lie",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/zip-ties-dont-lie/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "weston-s-lines",
+      "title": "Weston's Lines",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/westons-lines/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "love-and-music",
+      "title": "Love and Music",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/love-and-music/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "no-man-left-behind",
+      "title": "No Man Left Behind",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/no-man-left-behind/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "sit-here",
+      "title": "Sit Here",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/sit-here/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "four-doors",
+      "title": "Four Doors",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/four-doors/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "equal-always",
+      "title": "Equal Always",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/equal-always/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "cord-id",
+      "title": "Cord ID",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/cord-id/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "kids-board",
+      "title": "Kids Board",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/kids-board/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "knox-story-generator",
+      "title": "Knox Story Generator",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/knox-story-generator/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "scanner",
+      "title": "Scanner",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/scanner/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "nfl-board",
+      "title": "NFL Board",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/nfl-board/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "gm-board",
+      "title": "GM Board",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/gm-board/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "hoffmann-board",
+      "title": "Hoffmann Board",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/hoffmann-board/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "element-review",
+      "title": "Element Review",
+      "kind": "Built",
+      "date": null,
+      "url": "https://schmidtweston-ship-it.github.io/element-review/",
+      "note": "Folded from family-credits live list. Percentage unknown \u2014 not invented.",
+      "source": "family-credits seed fold 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "pass-it-on",
+      "title": "Pass It On",
+      "kind": "Built",
+      "date": "2026-10-24",
+      "url": "https://schmidtweston-ship-it.github.io/pass-it-on/",
+      "note": "Knox \u00b7 kindness chain. Percentage unknown \u2014 not invented.",
+      "source": "MAX BURN ship 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "nice-things",
+      "title": "nice things",
+      "kind": "Built",
+      "date": "2026-10-24",
+      "url": "https://schmidtweston-ship-it.github.io/nice-things/",
+      "note": "Ada \u00b7 happiness jar. Percentage unknown \u2014 not invented.",
+      "source": "MAX BURN ship 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "the-shelves",
+      "title": "The Shelves",
+      "kind": "Built",
+      "date": "2026-10-24",
+      "url": "https://schmidtweston-ship-it.github.io/the-shelves/",
+      "note": "Clio \u00b7 house library. Percentage unknown \u2014 not invented.",
+      "source": "MAX BURN ship 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "companion",
+      "title": "Companion",
+      "kind": "Built",
+      "date": "2026-10-24",
+      "url": "https://schmidtweston-ship-it.github.io/companion/",
+      "note": "Elder one-phone home. Percentage unknown \u2014 not invented.",
+      "source": "MAX BURN ship 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "ask-me",
+      "title": "Ask Me",
+      "kind": "Built",
+      "date": "2026-10-24",
+      "url": "https://schmidtweston-ship-it.github.io/ask-me/",
+      "note": "Short plain answers. Percentage unknown \u2014 not invented.",
+      "source": "MAX BURN ship 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    },
+    {
+      "id": "my-bills",
+      "title": "My Bills",
+      "kind": "Built",
+      "date": "2026-10-24",
+      "url": "https://schmidtweston-ship-it.github.io/my-bills/",
+      "note": "Bill list + Paid. Percentage unknown \u2014 not invented.",
+      "source": "MAX BURN ship 2026-10-24",
+      "contributors": [
+        {
+          "name": "Ada Rose Schmidt",
+          "percent": "\u2014",
+          "role": "Built"
+        }
+      ]
+    }
+  ],
+  "scaffold_note": "Folded from made/family-credits/ on 2026-10-24 MAX BURN. family-credits NOT dual-published as Pages. Percentages left as em-dash where not verified. House bios remain canonical \u2014 schmidt-family-bios not published.",
+  "last_updated": "2026-10-24"
 }

@@ -47,7 +47,16 @@
         const list=document.getElementById('contract-list');
         if(!data.entries || !data.entries.length) return;
         document.querySelector('.empty-state').style.display='none';
-        list.innerHTML=data.entries.map(e=>`<li><a href="#${e.id}">${e.title}</a><span class="meta">${(e.contributors||[]).map(c=>c.name+' '+c.percent+'%').join(' · ')}</span></li>`).join('');
+        list.innerHTML=data.entries.map(e=>{
+          const meta=(e.contributors||[]).map(c=>{
+            const p=c.percent;
+            const pct=(p===null||p===undefined||p==='—')?'% unknown':(String(p).endsWith('%')?p:p+'%');
+            return c.name+' · '+pct;
+          }).join(' · ');
+          const link=e.url?`<a href="${e.url}" target="_blank" rel="noopener">${e.title}</a>`:`<a href="#${e.id}">${e.title}</a>`;
+          const when=e.date?` · ${e.date}`:'';
+          return `<li id="${e.id}">${link}<span class="meta">${e.kind||'Work'}${when} · ${meta}</span></li>`;
+        }).join('');
       }).catch(()=>{});
     </script>
   </div>
